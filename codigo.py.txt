@@ -1,0 +1,9 @@
+#for variavel in sequencia:
+#para cada variavel NA MINHA sequencia:
+  # executar uma repetição (código) => interação
+
+  # PARA CADA numero NA MINHA sequencia de numeros até 10:
+  #mostrar o numero
+
+for numero in range (10):
+    print ('0 número atual é:', numero)
